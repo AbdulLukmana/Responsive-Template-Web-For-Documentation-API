@@ -1,5 +1,5 @@
-# Responsive-Template-Web-For-Documentation-API
+###### Template Website Dokumentasi Kode
 Template website responsif yang cocok untuk dokumentasi API atau source kode
 
-[Example website](https://projectshowcase.great-site.net/readmarkdown14/)
+[Contoh website](https://projectshowcase.great-site.net/readmarkdown14/)
 
